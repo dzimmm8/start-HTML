@@ -1,4 +1,4 @@
-/* STYLES ASLI DARI FREECODECAMP */
+/* Original Styles of Freecodecamp */
 
 body {
   background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
@@ -95,3 +95,4 @@ a:hover {
 a:active {
   color: brown;
 }
+
